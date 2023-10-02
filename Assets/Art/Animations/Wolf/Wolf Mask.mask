@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Wolf Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Wolf
+    m_Weight: 1
+  - m_Path: WolfHub003
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004/WolfSpine1 1
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004/WolfSpine1 1/WolfSpine2
+      1
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004/WolfSpine1 1/WolfSpine2
+      1/WolfHub005
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004/WolfSpine1 1/WolfSpine2
+      1/WolfHub005/WolfHub005Bone001
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004/WolfSpine1 1/WolfSpine2
+      1/WolfHub005/WolfHub005Bone002
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004/WolfSpine1 1/WolfSpine2
+      1/WolfHub005/WolfHub005Bone003
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004/WolfLLeg1 1
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004/WolfLLeg1 1/WolfLLeg2
+      1
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004/WolfLLeg1 1/WolfLLeg2
+      1/WolfLLeg3 1
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004/WolfLLeg1 1/WolfLLeg2
+      1/WolfLLeg3 1/WolfLLegAnkle 1
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004/WolfRLeg1 1
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004/WolfRLeg1 1/WolfRLeg2
+      1
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004/WolfRLeg1 1/WolfRLeg2
+      1/WolfRLeg3 1
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfSpine1/WolfSpine2/WolfSpine3/WolfHub004/WolfRLeg1 1/WolfRLeg2
+      1/WolfRLeg3 1/WolfRLegAnkle 1
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfLLeg1
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfLLeg1/WolfLLeg2
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfLLeg1/WolfLLeg2/WolfLLeg3
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfLLeg1/WolfLLeg2/WolfLLeg3/WolfLLegAnkle
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfRLeg1
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfRLeg1/WolfRLeg2
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfRLeg1/WolfRLeg2/WolfRLeg3
+    m_Weight: 1
+  - m_Path: WolfHub003/WolfRLeg1/WolfRLeg2/WolfRLeg3/WolfRLegAnkle
+    m_Weight: 1
+  - m_Path: WolfHub003/Wolf_tail
+    m_Weight: 1
+  - m_Path: WolfHub003/Wolf_tail/Wolf2
+    m_Weight: 1
+  - m_Path: WolfHub003/Wolf_tail/Wolf2/Wolf3
+    m_Weight: 1
+  - m_Path: WolfHub003/Wolf_tail/Wolf2/Wolf3/Wolf4
+    m_Weight: 1
+  - m_Path: WolfHub003/Wolf_tail/Wolf2/Wolf3/Wolf4/WolfTail5
+    m_Weight: 1
+  - m_Path: WolfLLegPlatform
+    m_Weight: 1
+  - m_Path: WolfRLegPlatform
+    m_Weight: 1
+  - m_Path: WolfLLegPlatform 1
+    m_Weight: 1
+  - m_Path: WolfRLegPlatform 1
+    m_Weight: 1
+  - m_Path: Wolf 1
+    m_Weight: 1
