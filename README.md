@@ -1,11 +1,14 @@
 readme.txt
+
 Starting Scene File
+-------------------
 	Assets/Level/Scenes/Intro Scene.unity
 
 The Intro Scene contains the main menu. Multiple scenes are used in play mode. The tutorial scene holds the map/terrain, but we do use other scenes like PlayerCameras & RockScene which hold the player and other in-game objects.
 
 
 How to play
+-----------
 Mouse/Keyboard:
 To move: Use “WASD” keys, or your directional keys
 To look around: Use your mouse
@@ -39,6 +42,7 @@ UI: The player can pause the game at any time. Upon death, they have the option 
 
 
 Known problem areas
+-------------------
 The player can momentarily get stuck on a tree when landing from a high jump
 Jump is difficult to control as the camera does go down enough to view the ground.
 There is no indicator of how many flares are left as the player picks them.
@@ -47,7 +51,9 @@ Wolves can push the player around, making it difficult to move if they warm them
 Player can sprint while jumping.
 The player’s body can clip through the terrain on the death animation.
 Camera might behave unexpectedly in certain extreme angles.
+
 Manifest
+--------
 1. Kiran: Worked on enemy wolf prefab (WolfPrefabAudio) that will aggro on the player
 when they come within a certain range and attack. Worked on the animator for this and
 the WolfController.cs code which manages the actions and allows the wolf to take
@@ -261,6 +267,7 @@ TimeSpell.cs (Quan, Alejandro)
 GameManagerScript.cs (Quan)
 
 Credits:
+--------
 Wolf model/animations by Dzen Games (https://assetstore.unity.com/publishers/14408) from https://assetstore.unity.com/packages/3d/characters/animals/wolf-animated-45505
 Wolf sound by Porovaara (https://assetstore.unity.com/publishers/12675) from https://assetstore.unity.com/packages/audio/sound-fx/animals/dog-barks-1-0-35370
 bar.png sprite used for UI bars from https://github.com/Brackeys/Health-Bar/tree/master/Health%20Bar/Assets/Sprites
@@ -280,6 +287,7 @@ Flare Launch: https://freesound.org/people/kyles/sounds/637537/
 
 
 Spoiler Walkthrough
+-------------------
 Go to the left, where the group bunnies are. You will find the Time Stop spell there. Sprint forward and then make a left into the wolf’s den. 
 Use the Time Spell to stop the entire pack, and pick up the Jump Spell on the ground. Use the spell to pick up the red Flare that’s right next to it.
 Exit through the back of the den, towards the initial hill as seen at the beginning of the game. At the top of the hill, there is another Flare Spell. Use the jump spell again to pick up that flare.
