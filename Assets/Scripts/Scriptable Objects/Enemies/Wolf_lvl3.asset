@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 586a514c2982d45cbb286d5a1b874f0d, type: 3}
+  m_Name: Wolf_lvl3
+  m_EditorClassIdentifier: 
+  damage: 15
+  health: 100
+  speed: 10
+  angularSpeed: 360
+  acceleration: 15
+  stoppingDistance: 0.33
+  drop: {fileID: 6234257391891964202, guid: 7301c59c9d02cd24db145c5a9db0414c, type: 3}
